@@ -74,10 +74,9 @@ Olá! Me chamo Filipe Izaak e tenho 19 anos. Atualmente, curso Análise e Desenv
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeIzaak&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeIzaak&theme=tokyonight&layout=compact" 
   />
 
 </p>
